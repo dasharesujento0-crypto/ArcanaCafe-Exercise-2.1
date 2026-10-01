@@ -7,7 +7,3 @@ This project contains:
 Run:
 - modular_version/main.py
 - oop_version/main.py
-
-GitHub:
-Create ONE repository and upload both folders.
-Then submit the HTTPS repository link in GCR.
